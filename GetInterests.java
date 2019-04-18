@@ -21,7 +21,6 @@ import static org.json.JSONPointer.builder;
 
 public class GetInterests {
 	
-	
 	StringBuffer response = new StringBuffer();
     String responseInString = new String();
     JSONObject jsonResult;
